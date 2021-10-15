@@ -1,3 +1,2 @@
 # ContactsTest
-Contact list built with Swift, URLSession, Codable, RESTful API and MVVM
-No third party libraries.
+Contact list built with Swift, URLSession, Codable, RESTful API,MVVM and no third party libraries.
